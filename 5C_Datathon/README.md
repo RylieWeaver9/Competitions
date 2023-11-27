@@ -32,4 +32,4 @@ This competition was an excellent opportunity to apply various data science tech
 
 ---
 
-For more details about our methodology, models, and analysis, please see the individual directories and files within this repository.
+For more details about our methodology, models, and analysis, please see the individual files within this directory.
