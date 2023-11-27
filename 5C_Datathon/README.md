@@ -1,4 +1,4 @@
-# 5C Hack - Flight Delay Prediction
+# 5C Datathon - Flight Delay Prediction
 
 ## Overview
 
