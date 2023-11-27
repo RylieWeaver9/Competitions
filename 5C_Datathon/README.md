@@ -23,7 +23,7 @@ The challenge was to create a model that accurately predicts whether a flight wo
 
 ## Results
 
-- Our final ensemble model achieved a **70.2% accuracy** in predicting flight delays.
+- Our final ensemble model achieved a **0.702% AUROC Score** in predicting flight delays.
 - We closely competed with the top teams, with the first-place team achieving a 71.2% accuracy.
 
 ## Reflection
