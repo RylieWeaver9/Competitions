@@ -1,4 +1,4 @@
-# 5C Hack - Flight Delay Prediction Project
+# 5C Hack - Flight Delay Prediction
 
 ## Overview
 
