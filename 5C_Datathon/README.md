@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the work our team did for the '5C Hack' data science competition held at the Claremont colleges. As the team lead, I, Rylie Weaver ([RylieWeaver9](https://github.com/RylieWeaver9)), along with my teammates George Johnson ([tsawsum](https://github.com/tsawsum)) and Abraham Arias ([HonestlyAbe](https://github.com/HonestlyAbe)), guided our efforts in developing a binary classifier to predict flight delays.
+This repository contains the work our team did for the '5C Hack' data science competition held at the Claremont colleges. As the team lead, I, Rylie Weaver ([RylieWeaver](https://github.com/RylieWeaver)), along with my teammates George Johnson ([tsawsum](https://github.com/tsawsum)) and Abraham Arias ([HonestlyAbe](https://github.com/HonestlyAbe)), guided our efforts in developing a binary classifier to predict flight delays.
 
 ## Project Description
 
